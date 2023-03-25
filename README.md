@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hello!%20I'm%20Yumi.&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header&text=Hello!%20I'm%20Yumi.&fontSize=40)
 
 ### Hi there 👋
 
