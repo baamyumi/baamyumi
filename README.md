@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header&text=Hello!%20I'm%20Yumi.&fontSize=40)
 
-<div align="center">
-### :raised_hands: Introduction
-</div>
+### :sparkles: Skills
+
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=TypeScript&logoColor=white"/>
 
 <!--
 **baamyumi/baamyumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
