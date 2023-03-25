@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=Hello%20I'm%20Yumi&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=auto&color=6FC7E1&height=200&section=header&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
 
 ### Hi there 👋
 
